@@ -1,0 +1,50 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Login Page",
+    "line": 1,
+    "id": "login-page",
+    "tags": [],
+    "uri": "login.feature",
+    "elements": [
+      {
+        "id": "login-page;as-a-user,-i-want-to-login-into-application-with-a-valid-credentials",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "As a user, I want to login into application with a valid credentials",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "user browse the application",
+            "result": {
+              "status": "undefined",
+              "duration": 42000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "user clicks the button",
+            "result": {
+              "status": "skipped"
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "user is on the login page",
+            "result": {
+              "status": "skipped"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
