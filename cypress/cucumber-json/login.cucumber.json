@@ -21,8 +21,8 @@
             "line": 5,
             "name": "user browse the application",
             "result": {
-              "status": "undefined",
-              "duration": 42000000
+              "status": "passed",
+              "duration": 1675000000
             }
           },
           {
@@ -31,7 +31,8 @@
             "line": 6,
             "name": "user clicks the button",
             "result": {
-              "status": "skipped"
+              "status": "passed",
+              "duration": 8000000
             }
           },
           {
@@ -40,7 +41,8 @@
             "line": 7,
             "name": "user is on the login page",
             "result": {
-              "status": "skipped"
+              "status": "passed",
+              "duration": 7000000
             }
           }
         ]
